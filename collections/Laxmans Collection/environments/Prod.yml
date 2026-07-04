@@ -1,0 +1,6 @@
+name: Prod
+variables:
+  - secret: true
+    name: base_url
+  - name: user_name
+    value: Laxman Singh
